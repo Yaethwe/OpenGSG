@@ -1,0 +1,35 @@
+.logoTitle{
+    color:darkorange;
+    background-color:white;
+    border:0px;
+    border-radius:0px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.navBar{
+    display:block;
+    background-color: white;
+    text-align: center;
+}
+
+.blank{
+    color:white;
+    border:0px;
+    border-radius:0px;
+    background-color: white;
+}
+
+.loginbtn{
+    background-color: gold;
+    color:aliceblue;
+    font-weight:bold;
+    font-family: sans-serif;
+    border:0px;
+    border-radius:10px;
+}
+
+body{
+    background-color: gainsboro;
+}
+
